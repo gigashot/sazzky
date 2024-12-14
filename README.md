@@ -18,6 +18,6 @@
 
 # Commision.txt
 zde se zapisují všechny částky s odečtenou provizí 10% (tato provive se dá změnit v main.py pod názvem: commision_rate)
-původní částka se dá vypočítat pro kontrolu podle vzorce 1/commision_rate(0.1"poměnná v main.py") * Commision (částka vypsaná v commision.txt)
+původní částka se dá vypočítat pro kontrolu podle vzorce __ 1/commision_rate(0.1"poměnná v main.py") * Commision (částka vypsaná v commision.txt) __
 # Bets.json
 momentálně nefunkční
