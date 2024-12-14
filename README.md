@@ -11,6 +11,9 @@
 ## Jak Použít - 2.způsob (bez Gitu)
 1. vytvoře si složku a otevřete nově vyrobenou složku v editovacím programu vlastního výběru (Vs code)
 2. vytvořte nový soubor main.py a zkopírujte obsah main.py
+3. vytořte prázdný soubor commision.txt
+4. spusťte main.py
+5. Použijte program podle instrukci programu
 
 
 # Commision.txt
